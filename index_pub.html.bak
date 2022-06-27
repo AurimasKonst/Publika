@@ -350,20 +350,20 @@
 			<div id="slider">
 				<div class="slide slide1">
 					<div class="slide-content">
-						<span>Puiki vieta</span>
-						<h5>Jūsų šeimos ir draugų šventėms!</h5>
+						<span>Image One</span>
+						<h5>kazkas 1</h5>
 					</div>
 				</div>
 				<div class="slide slide2">
 					<div class="slide-content">
-						<span>Didelė sodybos erdvė<br></span>
-						<h5>Jūsų renginiams!</h5>
+						<span>Image Two<br></span>
+						<h5>kazkas 2</h5>
 					</div>
 				</div>
 				<div class="slide slide3">
 					<div class="slide-content">
-						<span>Pirtis, kubilas, tvenkinys</span>
-						<h5>Mėgautis pirties arba kubilo malonumais ... Iš pirties į tvenkinį</h5>
+						<span>Image Three</span>
+						<h5>kazkas 3</h5>
 					</div>
 				</div>
 			</div>

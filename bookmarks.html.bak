@@ -21,25 +21,20 @@
 
     body {
       font-family: montserrat;
-
     }
+	
+	.bg {
+  /* The image used */
+  background-image: url("publika2.jpg");
 
-    main {
+  /* Full height */
+  height: 100%; 
 
-      background-image: url('PUBphotos/publika_b.jpg');
-      background-position: center;
-      background-repeat: no-repeat;
-      background-size: cover;
-      height: 600px;
-      opacity: 0.7;
-
-    }
-
-    section {
-      display: flex;
-      position: sticky;
-      opacity: 1;
-    }
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 
     nav {
       background: #0082e6;
@@ -199,7 +194,6 @@
 </head>
 
 <body>
-
   <header>
     <nav>
       <input type="checkbox" id="check">
@@ -218,22 +212,17 @@
     </nav>
   </header>
   <main>
-    <div class="bg"></div>
+  <div class="bg"></div>
     <section>
-      <h2 id="section1">Paslaugos</h2>
-      <p> </p>
+
+      <h2 id="">Paslaugos</h2>
+    </section>
     </section>
     <section>
-      <br id="section2">
-      🔥 Užsisakius ne mažiau tris valandas pirties , ketvirtą valandą gaunate nemokamai !!!</br>
-      🔥1 val. - 10 eu.</br>
-      🔥Pagal pageidavimus , +kubilas !</br>
-      🔥Nuolaida galioja nuo sekmadienio iki ketvirtadienio dienomis !</br>
-      🔥Nuolaida galioja iki lapkričio 20 dienos!</br>
-      🔥Šiuo metu priimam poras, šeima </br>
-
+      </p>
+      <p><a href="#"> i pradžią</a></p>
     </section>
-
+    <p><a href="#"> i pradžią</a></p>
   </main>
   <footer>
     <h5>© Publika 2022. Visos teisės saugomos</h5>
